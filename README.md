@@ -29,7 +29,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Reinforcement Learning](#Reinforcement-Learning)
 - [Natural Language Processing](#Natural-Language-Processing)
 
-## Mathematical Foundations:
+## Mathematical Foundations:-
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
 
 ### Linear Algebra 
